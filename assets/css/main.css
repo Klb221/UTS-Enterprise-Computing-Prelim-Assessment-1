@@ -5081,7 +5081,7 @@ a img {
     }
 
     .images-left img {
-        float: left
+        float: center
     }
 }
 
