@@ -1,9 +1,18 @@
-# UTS Assessment Task 1 (Prelim) Notes
-## Summary of issue: Obesity in Children
-Childhood obesity is a significant health concern in Australia, with about one in four children aged 5–14 classified as overweight or obese. This condition not only predisposes children to physical health issues but also has profound implications for their mental well-being.
+## General Notes
+### Information Dump
 
-Physical Health and Obesity: The prevalence of obesity among Australian children has been relatively stable between 2007–08 and 2017–18, with 24% of children aged 5–14 being overweight or obese. Obesity in children is often the result of a sustained energy imbalance, where the energy intake from food and drink exceeds the energy expended through physical activity and bodily functions. Factors contributing to this imbalance include increased consumption of energy-dense, low-nutrient foods, insufficient physical activity, and increased sedentary behavior. [The consequences of obesity in childhood extend into adulthood, increasing the risk of chronic conditions such as type 2 diabetes and cardiovascular disease.](https://www.aihw.gov.au/reports/children-youth/australias-children/contents/health/overweight-obesity)
 
-See Sources: [1](https://www.aihw.gov.au/reports/children-youth/australias-children/contents/health/overweight-obesity), [2](https://www.healthdirect.gov.au/obesity-in-children), [3](https://apo.org.au/sites/default/files/resource-files/2021-02/apo-nid311157.pdf), [4](https://www.aihw.gov.au/reports/overweight-obesity/overweight-obesity-australian-children-adolescents/summary)
+### Teacher Feedback
+Add something interactive (Could possible use a QR to a form for people to tell how they found the resource helpful?)
 
-Mental Health and Obesity: The impact of obesity on a child’s mental health is multifaceted. Children with obesity are at a higher risk of experiencing psychological issues, including depression, anxiety, and low self-esteem. The social stigma associated with being overweight can lead to weight-based teasing and bullying, negatively affecting a child’s psychological well-being, peer relationships, and school experiences. These experiences can diminish self-confidence and discourage physical activity, further exacerbating the issue
+## Code Dump
+### HTML
+Little icon for section 2 divs
+```
+<img
+  height="32"
+  width="32"
+  src="ADD IMG"
+  style="filter: invert(22%) sepia(77%) saturate(1486%) hue-rotate(183deg) brightness(101%) contrast(103%)"
+/>
+```
